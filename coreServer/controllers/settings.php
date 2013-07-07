@@ -1,0 +1,1 @@
+﻿<div style="color: gray; font-size: 12px; padding: 20px; text-align: center;">Временно не доступен данный модуль..</div>

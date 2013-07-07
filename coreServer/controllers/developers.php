@@ -1,0 +1,1 @@
+﻿<div style="color: gray; font-size: 12px; padding: 20px; text-align: center;">Пишется API под наш сервис для разработчиков сторонних программ..</div>
